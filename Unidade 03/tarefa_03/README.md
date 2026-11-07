@@ -1,7 +1,6 @@
 # Atividade de Casa: Consumindo uma API Pública
 
-**Nome do Aluno:** [Seu Nome]
-**Turma:** [Sua Turma]
+**Nome do Aluno:** Douglas Karan
 
 ## Sobre a API
 Eu escolhi usar a API **Dog CEO**.
